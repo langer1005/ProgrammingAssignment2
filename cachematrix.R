@@ -1,5 +1,4 @@
 ## Catching the inverse of a matrix if it is already computed
-
 ## This function creates a matrix with attributes that can get its inverse from cache.
 
 makeCacheMatrix <- function(x = matrix()) {
